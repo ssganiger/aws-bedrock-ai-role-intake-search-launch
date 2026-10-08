@@ -1,4 +1,4 @@
-# Role Intake and Search Launch
+# AWS Bedrock AI | Role Intake and Search Launch
 
 A small business process automation built with Python, Streamlit, and Amazon Bedrock. A hiring manager enters a rough role brief; the app extracts facts, checks whether the intake is complete, and either launches an internal search kickoff or requests missing information.
 
